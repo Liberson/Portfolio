@@ -1,0 +1,23 @@
+/* this is CSS comment*/
+
+.logo-size{
+height: auto;
+}
+
+.footer-font{
+  	font-size: 2em;
+  	background-color: #f2f2f2;
+  }
+
+.text-wrap{
+	word-wrap: break-word
+}
+
+.img-size{
+	width: 100%;
+}
+
+.border{
+   border-bottom: 2px solid;
+}
+
